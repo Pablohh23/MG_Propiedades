@@ -189,3 +189,34 @@ Captar propiedades de alta liquidez, aplicar el Modelo de Evaluación Comercial 
 ## 5. Guion de Captación
 
 ### 5.1 Guion de WhatsApp (Primer Contacto)
+
+### 5.2 Guion de Llamada (60 segundos)
+
+### 5.3 Seguimiento
+
+- Si no responde: enviar WhatsApp a los 3 días.
+- Si no responde: llamar a los 7 días.
+- Si no responde: descartar y pasar al siguiente.
+
+---
+
+## 6. KPIs del Departamento Comercial
+
+| KPI | Meta |
+| :--- | :--- |
+| Propietarios contactados por semana | 15 |
+| Reuniones agendadas por semana | 3 |
+| Mandatos firmados por mes | 2 |
+| Propiedades captadas por mes | 2 |
+| Tasa de conversión contacto → reunión | 20% |
+| Tasa de conversión reunión → mandato | 50% |
+
+---
+
+## 7. Documentos Relacionados
+- `00.1_NUESTRA_VISION.md` — Visión, misión, filosofía
+- `00.2_ROL_CEO.md` — Directiva para IA
+- `01_DEPT_LEGAL_Y_UAF.md` — Departamento Legal
+- `05_DEPT_ADM_ARRIENDOS.md` — Departamento Arriendos
+- `PLANTILLAS/VENTA/` — Plantillas específicas
+- `PLANTILLAS/ARRIENDO/` — Plantillas específicas
