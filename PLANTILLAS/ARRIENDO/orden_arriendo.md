@@ -132,9 +132,6 @@ El mandante declara que:
 ---
 
 ## 8. Documentos Relacionados
-- `05_DEPT_ADM_ARRIENDOS.md` — Departamento Administración de Arriendos
-- `PLANTILLAS/ARRIENDO/filtro_arrendatario.md` — Filtro de arrendatario
-- `PLANTILLAS/ARRIENDO/contrato_arriendo.md` — Contrato de arriendo
 
 - `05_DEPT_ADM_ARRIENDOS.md` — Departamento Administración de Arriendos
 - `PLANTILLAS/ARRIENDO/filtro_arrendatario.md` — Filtro de arrendatario
