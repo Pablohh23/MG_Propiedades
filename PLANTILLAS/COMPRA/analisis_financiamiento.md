@@ -5,7 +5,7 @@ Analizar las opciones de financiamiento disponibles para el cliente comprador.
 
 **Este documento permite asesorar al cliente sobre la mejor opción de crédito.**
 
----
+----
 
 ## 1. Datos del Cliente
 
